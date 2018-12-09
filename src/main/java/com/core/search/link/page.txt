@@ -1,0 +1,5 @@
+www.a.com jvm,虚拟机
+www.b.com 对象结构,空闲列表
+www.c.com jvm,虚拟机
+www.d.com 对象结构,空闲列表
+www.e.com nginx,proxy

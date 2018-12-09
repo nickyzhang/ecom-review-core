@@ -1,0 +1,48 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.Trash-*
+.directory
+lost+found/
+
+# Mac OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# SVN
+.svn/
+
+# Vim
+.swp
+
+# Java
+*.class
+classes/
+hs_err_pid*
+
+# Eclipse
+.project
+.classpath
+
+# JetBrains
+.idea/
